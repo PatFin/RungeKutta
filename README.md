@@ -4,7 +4,7 @@ Repository containing three applications of the Runge-Kutta numerical approximat
 
 FirstOrder
 --
-FirstOrder.c contains the source code pf a simple approximation of a first order PDE.
+FirstOrder.c contains the source code of a simple approximation of a first order PDE.
 
 SecondOrder
 --
@@ -18,6 +18,5 @@ One can adjust at will all the parameters of the system.
 
 Credits
 --
-The displays are done using *gnuplot*. Credits to N.Devillard who made a simple interface for this program with the C language. 
-ndevilla.free.fr/gnuplot/
+The displays are done using *gnuplot*. Credits to N.Devillard who made a simple interface for this program with the C language. More information here: [ndevilla.free.fr/gnuplot/](ndevilla.free.fr/gnuplot/). 
 
